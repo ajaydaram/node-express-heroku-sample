@@ -1,0 +1,15 @@
+{
+  "name": "stack-app",
+  "version": "1.0.0",
+  "description": "A simple full stack application. Our server will lives on a url and when a user makes requests to this URL.the server will responds with some HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

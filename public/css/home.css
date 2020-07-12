@@ -1,0 +1,66 @@
+body {
+	background-color: rgb(2, 15, 7) ;
+
+	
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace;
+	color: red;
+	font-size: 40px;
+}
+
+#title-caption {
+  text-align: center;
+	font-family: sans-serif;
+	color: goldenrod;
+	font-size: 20px;
+}
+
+#image {
+  
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: 40%;
+  height: auto;
+  border: solid 5px;
+  border-color: burlywood;
+  
+}
+
+
+#img-caption {
+	text-align: center;
+	color: white;
+	position: relative;
+	top: 8px;
+
+
+}
+h2{
+	text-align: center;
+}
+	
+
+
+#img-div {
+   
+    height: 100%; width: auto; text-align: center;
+ 
+}
+p {
+	color: burlywood;
+	text-indent: 50px;
+	line-height: 2;
+}
+
+a {
+	background-color: #333;
+    color: yellow;
+    padding: 10px 15px;
+    border: none; 
+
+}
